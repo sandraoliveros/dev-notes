@@ -1,6 +1,4 @@
-
 # Babel 7 🧙‍♂️✨
-
 
 In order to use Babel we'll need to install at least 4 Babel components:
 

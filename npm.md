@@ -1,6 +1,4 @@
-
 # NPM 📦
-
 
 ## Quick init
 This starts a `package.json` without having to ask the questions:
