@@ -1,6 +1,6 @@
 # NPM 📦
 
-## Quick init
+## Quick init 🚀
 This starts a `package.json` without having to ask the questions:
 ```
 npm init -y
@@ -38,6 +38,6 @@ npm i jquery@latest
 ```
 👆 It is the only way to change the major version without knowing the number of the version. It install the last published major version.
 
-## npx
+## npx 🤖
 
 `npx` is a relatively new feature in `npm`. It can be used to run binary files that are stored in the `node_modules/.bin` directory. Let's say that you want to run `babel` from the command line. Usually you'd run `./node_modules/babel`. With `npx` you don't need to do this anymore: you can do `npx babel` and it would be the same since the binary for `babel` will be added to the `node_modules/.bin` directory when you install `babel`.
