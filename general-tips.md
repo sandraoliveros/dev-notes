@@ -4,3 +4,8 @@
 ```
 python -m SimpleHTTPServer [port]
 ```
+
+### Kill Chrome 😒
+```
+pkill chrome
+```
